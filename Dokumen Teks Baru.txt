@@ -1,0 +1,8 @@
+echo "#bayusanjaya221" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git Branch -M main 
+git remote add origin https://github.com/bayusanjaya221/bayusanjaya221.git
+ git push - kamu asal utama
+
